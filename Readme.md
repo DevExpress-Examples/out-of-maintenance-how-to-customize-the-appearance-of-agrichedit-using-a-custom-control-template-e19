@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/SilverlightApplication8/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightApplication8/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/SilverlightApplication8/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/SilverlightApplication8/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/SilverlightApplication8/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication8/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to customize the appearance of AgRichEdit using a custom control template
 
